@@ -1,0 +1,5 @@
+C:\Users\zheny\source\repos\TrainSheet\TrainSheet\obj\Debug\net5.0\TrainSheet.csproj.AssemblyReference.cache
+C:\Users\zheny\source\repos\TrainSheet\TrainSheet\obj\Debug\net5.0\TrainSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheny\source\repos\TrainSheet\TrainSheet\obj\Debug\net5.0\TrainSheet.AssemblyInfoInputs.cache
+C:\Users\zheny\source\repos\TrainSheet\TrainSheet\obj\Debug\net5.0\TrainSheet.AssemblyInfo.cs
+C:\Users\zheny\source\repos\TrainSheet\TrainSheet\obj\Debug\net5.0\TrainSheet.csproj.CoreCompileInputs.cache
